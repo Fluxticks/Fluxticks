@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benji, sometimes known as Fluxticks online</h1>
+<h1 align="center">Hi 👋, I'm Benji, sometimes known online as Fluxticks</h1>
 <h3 align="center">A passionate Front-end and Back-end software developer with a love of Freelance work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluxticks&label=Profile%20views&color=0e75b6&style=flat" alt="fluxticks" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, CSS, SASS and React**
 
-- 👯 I’m looking to collaborate on **Any freelance project, feel free to contact me!**
+- 👯 I’m looking to collaborate on **any freelance project, feel free to contact me!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fluxticks](https://github.com/Fluxticks)
 
