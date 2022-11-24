@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Jutta Zilha's website](https://github.com/Fluxticks/jutta-website)
 
-- 🌱 I’m currently learning **Recently learnt JS, CSS, SASS and React**
+- 🌱 I’m currently learning **JS, CSS, SASS and React**
 
 - 👯 I’m looking to collaborate on **Any freelance project, feel free to contact me!**
 
