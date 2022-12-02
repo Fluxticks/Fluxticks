@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluxticks&label=Profile%20views&color=0e75b6&style=flat" alt="fluxticks" /> </p>
 
-- 🔭 I’m currently working on [Jutta Zilha's website](https://github.com/Fluxticks/jutta-website)
+- 🔭 I’m currently working on [Jutta Zihla's website](https://github.com/Fluxticks/jutta-production)
 
 - 🌱 I’m currently learning **JS, CSS, SASS and React**
 
