@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any freelance project, feel free to contact me!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fluxticks](https://github.com/Fluxticks)
+- 👩‍💻 All of my projects are available at [https://github.com/Fluxticks](https://github.com/Fluxticks)
 
 - 📫 How to reach me **benjigarment.appdev@gmail.com**
 
