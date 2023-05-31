@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Benji, sometimes known online as Fluxticks</h1>
+<h1 align="center">Hi 👋, I'm Becky, sometimes known online as Fluxticks</h1>
 <h3 align="center">A passionate Front-end and Back-end software developer with a love of Freelance work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluxticks&label=Profile%20views&color=0e75b6&style=flat" alt="fluxticks" /> </p>
 
-- 🔭 I’m currently working on [Jutta Zihla's website](https://github.com/Fluxticks/jutta-production)
+- 🔭 I just finished the first release of my first python package [TikTokDL](https://github.com/Fluxticks/TikTokDL)
 
 - 🌱 I’m currently learning **JS, CSS, SASS and React**
 
