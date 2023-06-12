@@ -11,14 +11,14 @@
 
 - 👩‍💻 All of my projects are available at [https://github.com/Fluxticks](https://github.com/Fluxticks)
 
-- 📫 How to reach me **benjigarment.appdev@gmail.com**
+- 📫 How to reach me **dev.garmentbecky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord-logo" height="38" width="40"/> On Discord — fuxticks#1809</a>
+  <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord-logo" height="38" width="40"/> On Discord — @fluxticks</a>
 </p>
 <p align="left">
-    <a href="mail.google.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="google-logo" height="34" width="40"/> Via Email — benjigarment.appdev@gmail.com<a>
+    <a href="mail.google.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="google-logo" height="34" width="40"/> Via Email — dev.garmentbecky@gmail.com<a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
