@@ -5,9 +5,7 @@
 
 - 🔭 I just finished the first release of my first python package [TikTokDL](https://github.com/Fluxticks/TikTokDL)
 
-- 🌱 I’m currently learning **JS, CSS, SASS and React**
-
-- 👯 I’m looking to collaborate on **any freelance project, feel free to contact me!**
+- 🌱 I’m working on my [github.io](https://fluxticks.github.io) page using **Svelte, JS, and CSS**
 
 - 👩‍💻 All of my projects are available at [https://github.com/Fluxticks](https://github.com/Fluxticks)
 
